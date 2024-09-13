@@ -72,4 +72,4 @@ Do you want to add capital letters? (yes/no or y/n):
 __________________________________________________
 Do you want to add simple letters? (yes/no or y/n):
 __________________________________________________
-Do you want to append numbers (e.g., 123, 456, 789)? (yes/no or y/n):
+Do you want to append numbers (e.g, 123, 456, 789)? (yes/no or y/n):
