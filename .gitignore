@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Python script to ignore
+dog.py
+*.pyc
+__pycache__/
+
 # C extensions
 *.so
 
