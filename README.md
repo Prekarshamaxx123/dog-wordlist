@@ -1,7 +1,8 @@
 # Dog-WORDLIST
 World wide best WORDLIST create tool for bruteforce attack !!
 
-![1000052976](https://github.com/user-attachments/assets/59cdf318-e824-4844-85de-2d4c691787ed)
+![1000053059](https://github.com/user-attachments/assets/36974386-6d19-4e71-8f74-2becf22aa03e)
+
 
 
 
@@ -21,11 +22,18 @@ World wide best WORDLIST create tool for bruteforce attack !!
  ### How to install
   
 ```
+pip install tqdm
+
 git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
 
 cd dog-wordlist
 
 python dog.py
+
+```
+ ### All one command 
+```
+pip install tqdm;git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git;cd dog-wordlist;python dog.py
 ```
 - [x]      TESTED
 ```
