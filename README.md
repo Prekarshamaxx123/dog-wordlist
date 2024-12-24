@@ -22,6 +22,10 @@ World wide best WORDLIST create tool for bruteforce attack !!
  ### How to install
   
 ```
+python3 -m venv prekarsha_env
+
+source prekarsha_env/bin/activate
+
 pip install tqdm
 
 git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
