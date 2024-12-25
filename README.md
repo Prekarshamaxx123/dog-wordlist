@@ -54,15 +54,32 @@ Android
 ```
 ---
 Options 
- »  Enter Name:>                                                    »  Enter Surname:>                                                 »  Enter Birthday (DD):>
- »  Enter Birthday (MM):>                                           »  Enter Birthday (YYYY):>                                         »  Enter Phone Number:>
- »  Enter Pet's Name:>                                              »  Enter Other Information (Example-City,Prekarsha):>              »  Add special characters at the start and end? (yes/no):>
- »  Generate advanced password list with special characters in the middle? (yes/no):>                                                  »  Enter maximum word length (default is 12):>
+ »  Enter Name:>     
  
-<br>   
-<br>
-![1000055218](https://github.com/user-attachments/assets/99b1b7c6-ff04-41ff-94d6-34f177b89697)
-![1000055220](https://github.com/user-attachments/assets/79845512-a7f1-4660-92c2-4a06f2c876ce)
+ »  Enter Surname:>    
+ 
+ »  Enter Birthday (DD):>
+ 
+ »  Enter Birthday (MM):>    
+ 
+ »  Enter Birthday (YYYY):>    
+ 
+ »  Enter Phone Number:>
+ 
+ »  Enter Pet's Name:>    
+ 
+ »  Enter Other Information (Example-City,Prekarsha):>              
+ 
+ »  Add special characters at the start and end? (yes/no):>
+
+ »  Generate advanced password list with special characters in the middle? (yes/no):>                                                  
+ »  Enter maximum word length (default is 12):>
+
+ ---
+ 
+![1000055218](https://github.com/user-attachments/assets/93617e6d-f5f4-4eb8-a580-85510d48e5cc)
+![1000055220](https://github.com/user-attachments/assets/d1585521-aae6-4a39-8035-6db116d889d3)
+
 
 
 ## Any Problem Contact me 👇👇
