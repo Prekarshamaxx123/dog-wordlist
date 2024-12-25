@@ -4,8 +4,7 @@ __pycache__/
 *$py.class
 
 # Python script to ignore
-Delete dog.py
-dog.py
+
 *.pyc
 __pycache__/
 
