@@ -35,16 +35,16 @@ Those who want to do Bruteforce Attack should try my latest WORDLIST create scri
 python3 -m venv prekarsha_env
 source prekarsha_env/bin/activate
 git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
-pip install -r requirements.txt
 cd dog-wordlist
+pip install -r requirements.txt
 python dist/dog.py
 
 ```
  ### Termux
 ```
 git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
-pip install -r requirements.txt
 cd dog-wordlist
+pip install -r requirements.txt
 python dog.py
 ```
 - [x]      TESTED
