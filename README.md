@@ -37,7 +37,7 @@ python dog.py
 ```
  ### All one command 
 ```
-pip install tqdm;git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git;cd dog-wordlist;python dog.py
+pip install tqdm && git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git && cd dog-wordlist %& python dog.py
 ```
 - [x]      TESTED
 ```
