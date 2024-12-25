@@ -72,7 +72,8 @@ Options
  
  »  Add special characters at the start and end? (yes/no):>
 
- »  Generate advanced password list with special characters in the middle? (yes/no):>                                                  
+ »  Generate advanced password list with special characters in the middle? (yes/no):>                   
+ 
  »  Enter maximum word length (default is 12):>
 
  ---
