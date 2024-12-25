@@ -5,6 +5,7 @@ Those who want to do Bruteforce Attack should try my latest WORDLIST create scri
 
 🛑 Features
          > Input All Information Using Create All                Type Words
+         
          > Specially designed for Bruteforce Attack
          > Can create very strong words
          > All Special Characters can be used
