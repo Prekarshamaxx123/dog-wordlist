@@ -4,13 +4,12 @@ World wide best WORDLIST create tool for bruteforce attack !!
 Those who want to do Bruteforce Attack should try my latest WORDLIST create script and thank me later 👇😍
 
 🛑 Features
-         > Input All Information Using Create All                Type Words
-         
-         > Specially designed for Bruteforce Attack
-         > Can create very strong words
-         > All Special Characters can be used
-         > Every word that can be created with every             information you enter is created under the            word limit you apply
-         > If you like, you can make the WORDLIST as             advanced
+> Input All Information Using Create All                Type Words
+> Specially designed for Bruteforce Attack
+> Can create very strong words
+> All Special Characters can be used
+> Every word that can be created with every             information you enter is created under the            word limit you apply
+> If you like, you can make the WORDLIST as             advanced
 
 🥵👇 Try it and after Thanks Me ❤️😍
 
