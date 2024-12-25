@@ -52,8 +52,18 @@ python dog.py
 Linux
 Android 
 ```
+---
+Options 
+ »  Enter Name:>                                                    »  Enter Surname:>                                                 »  Enter Birthday (DD):>
+ »  Enter Birthday (MM):>                                           »  Enter Birthday (YYYY):>                                         »  Enter Phone Number:>
+ »  Enter Pet's Name:>                                              »  Enter Other Information (Example-City,Prekarsha):>              »  Add special characters at the start and end? (yes/no):>
+ »  Generate advanced password list with special characters in the middle? (yes/no):>                                                  »  Enter maximum word length (default is 12):>
+ 
 <br>   
 <br>
+![1000055218](https://github.com/user-attachments/assets/99b1b7c6-ff04-41ff-94d6-34f177b89697)
+![1000055220](https://github.com/user-attachments/assets/79845512-a7f1-4660-92c2-4a06f2c876ce)
+
 
 ## Any Problem Contact me 👇👇
 
