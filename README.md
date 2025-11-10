@@ -42,7 +42,7 @@ pip install -r requirements.txt
 python dog.py
 
 ```
- ### Termux
+ ### Termux - Some Devices Not Working 🚫
 ```
 git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
 cd dog-wordlist
