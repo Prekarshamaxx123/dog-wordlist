@@ -37,7 +37,7 @@ source prekarsha_env/bin/activate
 git clone --depth=1 https://github.com/Prekarshamaxx123/dog-wordlist.git
 cd dog-wordlist
 pip install -r requirements.txt
-python dist/dog.py
+python dog.py
 
 ```
  ### Termux
