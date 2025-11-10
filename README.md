@@ -3,6 +3,8 @@ World wide best WORDLIST create tool for bruteforce attack !!
 
 Those who want to do Bruteforce Attack should try my latest WORDLIST create script and thank me later 👇😍
 
+WORLD WIDE POWERFUL WORDLIST GENERATOR
+
 🛑 Features
 > Input All Information Using Create All                Type Words.
 
