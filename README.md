@@ -31,7 +31,7 @@ WORLD WIDE POWERFUL WORDLIST GENERATOR
 </p>
 
 
- ### Linux 
+ ### Linux - Working ✅
   
 ```
 python3 -m venv prekarsha_env
